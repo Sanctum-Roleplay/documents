@@ -2,7 +2,18 @@
 /node_modules
 
 # Production
-/build
+/build/assets
+/build/blog
+/build/docs
+/build/img
+/build/.nojekyll
+/build/404.html
+/build/blog.html
+/build/index.html
+/build/markdown-page.html
+/build/sitemap.xml
+
+
 
 # Generated files
 .docusaurus
