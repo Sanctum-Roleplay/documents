@@ -18,6 +18,7 @@
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/preset-classic": "^3.10.1",
     "@mdx-js/react": "^3.1.1",
+    "@tsparticles/engine": "^4.0.2",
     "@yozora/react-admonition": "^3.0.0-alpha.14",
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
@@ -46,7 +47,6 @@
     "node": ">=18.0"
   },
   "trustedDependencies": [
-    "@tsparticles/engine",
     "core-js"
   ]
 }
